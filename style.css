@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(80, 80, 135);
+    font-style:italic;
+    font-family:comic;
+    font-size:20px;
+}
+h3{
+    background-color:rgb(52, 52, 152);
+    font-family:Impact;
+    font-size:25px;
+    width:100%;
+}
+#camera{
+    border-width:2px;
+    height:350px;
+    width:350px;
+}
